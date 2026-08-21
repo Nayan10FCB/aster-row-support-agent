@@ -1,1 +1,8 @@
-
+fastapi
+uvicorn
+openai
+langgraph
+chromadb
+pydantic
+python-dotenv
+tiktoken
